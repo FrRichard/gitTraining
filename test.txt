@@ -1,2 +1,3 @@
 amend test hello test has been changed, another time! unstaged changes
 unstage test
+let's merge a divergent branch

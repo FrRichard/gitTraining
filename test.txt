@@ -1,1 +1,1 @@
-hello test has been changed, another time! unstaged changes
+amend test hello test has been changed, another time! unstaged changes
